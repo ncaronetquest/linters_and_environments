@@ -1,0 +1,7 @@
+[project]
+name = "linters-and-environments"
+version = "0.1.0"
+description = "Repo about how to use modern Python linting and environment tools such as Ruff, Black, and UV."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
