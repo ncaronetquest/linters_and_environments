@@ -5,7 +5,6 @@ This repository demonstrates how to use modern Python linting and environment to
 ## 📂 Structure
 
 - `demo_project/app.py` – Contains poorly formatted code for demonstration.
-- `setup.sh` – Script to set up the environment, install tools, and run linting/formatting.
 - `.venv/` – Will be created by `uv init` (not tracked in version control).
 
 ## 🧪 Tools Used
