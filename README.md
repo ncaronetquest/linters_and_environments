@@ -4,7 +4,8 @@ This repository demonstrates how to use modern Python linting and environment to
 
 ## 📂 Structure
 
-- `demo_project/app.py` – Contains poorly formatted code for demonstration.
+- `pre_ruff.py` – Contains poorly formatted code for demonstration.
+- `post_ruff.py` – Contains poorly formatted code that will be formated and linted for demonstration.
 - `.venv/` – Will be created by `uv init` (not tracked in version control).
 
 ## 🧪 Tools Used
